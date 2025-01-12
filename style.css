@@ -1,0 +1,13 @@
+.text{
+    background-color:#C6E4D6 ;
+    /* display: flex; */
+    width: 1280px;
+    height: 700px;
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+}
+.text-title-button{
+    background-color: #006A50;
+    padding: 10px;
+}
